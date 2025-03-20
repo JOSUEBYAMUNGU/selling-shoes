@@ -1,0 +1,266 @@
+body
+{
+  background-color: rgb(253, 253, 253);
+  
+ }
+ .log
+ {
+   
+ }
+ .hautback
+{
+  background: url(photos/back2.jpeg) ;
+  background-size: cover;
+   background-repeat: no-repeat;
+ 
+ 
+}
+.bar
+{
+display: flex;
+justify-content: space-around;
+margin-right: 0%;
+font-size: 30px;
+list-style: none;
+
+}
+
+
+h1
+{
+     color: white;
+     font-size: 100px;
+     text-align: center;
+}
+.para
+{
+  color: bisque;
+  font-size: 50px;
+  text-align: center;
+}
+.sous
+{
+color: rgb(241, 198, 7);
+width: 40%;
+margin-left: 5%;
+font-size: 30PX;
+margin-top: 0%;
+text-shadow: 2px 2px 2px rgb(14, 14, 14);
+}
+.sous-b
+{
+    color: rgb(247, 246, 246);
+    padding-top: -10PX;
+    border-radius: 5%;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 30PX;
+    padding-bottom: 10%;
+    text-shadow:2px 2px 4px rgb(8, 8, 8) ;
+}
+.ensemble
+{
+  background-color: rgb(195, 200, 204);
+   display: flex;
+   width: 80%;
+   margin-left: 10%;
+   padding-right: 5%;
+}
+.sous-bloc1
+{
+  
+  padding-left: 10%;
+  font-size: 30px;
+  color: rgb(4, 4, 4);
+  text-shadow: 1px 1px 1px black;
+}
+.sous-bloc2
+{
+    
+    padding-left: 10%;
+    font-size: 30px;
+    color:bisque;
+    text-shadow: 1px 1px 1px black;
+}
+.sous-bloc3
+{
+  
+  padding-left: 10%;
+  font-size: 30px;
+  color: rgb(4, 4, 4);
+  text-shadow: 1px 1px 1px black;
+}
+.contact{
+  background-color: rgb(240, 232, 223);
+  color: rgb(5, 5, 5);
+  font-size: 30px;
+  text-align: center;
+  margin-left: 30%;
+  padding: 2%;
+  text-shadow: 1px 1px 1px rgb(255, 255, 255)56, 147, 147;
+}
+.forconta
+{
+  border: solid rgb(8, 8, 8);
+  background-color: blanchedalmond;
+  margin-left: 10%;
+  padding:1% ;
+  border-radius: 40px;
+
+}
+.forboutton
+{
+  margin-bottom: 10%;
+  border-radius: 30px;
+  
+}
+td
+{
+  border: groove white;
+}
+.boite
+{
+  display: flex;
+  text-align: center;
+  
+}
+.link
+{
+  
+  display: flex;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding: 10px ;
+  justify-content: space-around;
+  
+}
+
+.blocbox
+{
+  display: flex;
+}
+
+.box1
+{
+  border: solid chocolate;
+  
+}
+.box11
+{
+ width: 90%;
+ height:80% ;
+margin-left: 5%;
+}
+.box12
+{
+  border: groove #ab9b9b;
+  background-color:  rgb(199, 192, 192);
+  margin-top: -1%;
+  width: 90%;
+  height:20% ;
+ margin-left: 5%;
+ text-align: justify;
+}
+.box2
+{
+  border: solid chocolate;
+  
+}
+.box21
+{
+  width: 90%;
+ height:80% ;
+margin-left: 5%;
+}
+.box22
+{
+  border: groove #ab9b9b;
+  background-color:  rgb(199, 192, 192);
+  margin-top: -1%;
+  width: 90%;
+  height:20% ;
+ margin-left: 5%;
+ text-align: justify;
+}
+.button
+{
+  border: 2px rgb(173, 170, 170) solid;
+  font-size: 20px;
+  border-radius: 40PX;
+  margin-left: 45%;
+  padding: 1%;
+  color: rgb(255, 255, 255);
+  background-color: rgb(195, 200, 204);
+}
+.button:hover
+{
+  color: black;
+  background-color: white;
+}
+.pp
+{
+  
+  display: flex;
+}
+.logo1
+{
+  margin-top: 10%;
+width: 95%;
+margin-left: 3%;
+}
+.logo2
+{
+  font-size: 30px;
+background-color: rgb(251, 169, 3);
+padding: 20px;
+width: 89%;
+margin-top: -1%;
+margin-left: 3%;
+color: white;
+text-shadow: 2px 2px 1px rgb(11, 8, 208);
+
+}
+.pa
+{
+margin-top: 10%;
+width: 95%;
+margin-left: 3%;
+}
+.pb
+{
+font-size: 30px;
+background-color: rgb(1, 1, 1);
+padding: 20px;
+width: 90%;
+margin-top: -1%;
+margin-left: 3%;
+color: white;
+text-shadow: 2px 2px 1px rgb(11, 8, 208);
+}
+
+.Bb
+{
+
+width: 50%;
+
+}
+a
+{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+a:focus
+{
+  color: rgb(14, 14, 14);
+  background-color: rgb(101, 98, 98);
+}
+footer
+{
+  background-color: rgb(122, 120, 120);
+  color: rgb(173, 170, 170);
+  font-size: 15px;
+border: solid;
+text-shadow: 1px 1px 1px black;
+text-align: center;
+
+}
